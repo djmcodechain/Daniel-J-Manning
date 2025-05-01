@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Cryptocurrency<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with web design tips<br>🌱 I’m currently learning C<br>💬 Ask me about why I love Python<br>
+Hi there! I'm a passionate developer with a strong interest in building secure, privacy-focused applications, blockchain projects, and personal AI systems. I enjoy working on creative solutions that blend ethical tech with real-world impact. I'm currently exploring neural networks, cryptography, and decentralized systems. Always learning, always building.
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-J-Manning&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Daniel-J-Manning&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-J-Manning&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Daniel-J-Manning&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Daniel-J-Manning&limit=5&theme=dark&combine_all_yearly_contributions=true)
