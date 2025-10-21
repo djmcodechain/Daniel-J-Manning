@@ -1,3 +1,5 @@
+<img src="https://github.com/djmcodechain/Daniel-J-Manning/blob/main/boot_sequence.svg" />
+
 # 💫 About Me
 
 Hey there! I’m Daniel J. Manning, a full-stack developer who’s all about building secure, privacy-first, and ethically-driven applications.
