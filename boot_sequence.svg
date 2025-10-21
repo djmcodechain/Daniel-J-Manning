@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" style="background:#000;font-family:'JetBrains Mono', monospace;">
+  <style>
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes typing { from { width: 0; } to { width: 100%; } }
+    .line { fill: #0f0; font-size: 16px; }
+    .cursor { fill: #0f0; animation: blink 1s step-end infinite; }
+    .fade { opacity: 0; animation: fadein 1s forwards; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect width="100%" height="100%" fill="#000" />
+
+  <!-- Header -->
+  <text x="20" y="40" class="line">[BOOTSEQUENCE:INIT]</text>
+
+  <!-- Boot log -->
+  <text x="40" y="80" class="line">Loading Profile::<tspan fill="#0ff">Daniel_J_Manning</tspan> ... OK</text>
+  <text x="40" y="110" class="line">Allocating Memory … <tspan fill="#ff0">256MB USED</tspan></text>
+  <text x="40" y="140" class="line">Authenticating Developer ID … <tspan fill="#0f0">VERIFIED ✅</tspan></text>
+  <text x="40" y="170" class="line">System Online.</text>
+  <text x="40" y="200" class="line fade" style="animation-delay: 1s;">[LOADING CORE MODULES]</text>
+  <text x="40" y="230" class="line fade" style="animation-delay: 2s;">HumanCode::AI_KERNEL -> ACTIVE</text>
+  <text x="40" y="260" class="line fade" style="animation-delay: 3s;">[READY FOR INPUT]</text>
+
+  <!-- Cursor -->
+  <text x="850" y="260" class="cursor">_</text>
+</svg>
