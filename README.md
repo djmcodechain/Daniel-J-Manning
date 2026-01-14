@@ -7,12 +7,11 @@ I am currently sharpening my fundamentals through CS50x (Harvard/edX) while focu
 - 💾 GitHub @djmcodechain
 
 ## 🧬 My Mission
-To leverage computational power to solve biological problems, ensuring that the systems I build are technically robust and ethically sound.
+- To leverage computational power to solve biological problems, ensuring that the systems I build are technically robust and ethically sound.
+- 🧠 Learning CS50x. Exploring Genomes. Building with Purpose.
 
-## 🧠 Learning CS50x. Exploring Genomes. Building with Purpose.
-
-### 💻 Tech Stack & Tools
-Development & Science
+## 💻 Tech Stack & Tools
+### Development & Science
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ### Professional & Design
