@@ -18,11 +18,9 @@ I am currently sharpening my fundamentals through CS50x (Harvard/edX) while focu
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Customer_Relations-0054F7?style=for-the-badge&logo=google-messages&logoColor=white" />
 
 ## 🚧 What I'm Up To
-CS50x: Currently working through Harvard's introduction to Computer Science.
-
-Bioinformatics Research: Exploring sequence alignment and data analysis.
-
-djmcodechain: Evolving my digital home to showcase my transition into tech.
+1. **CS50x**: Currently working through Harvard's introduction to Computer Science.
+2. **Bioinformatics** Research: Exploring sequence alignment and data analysis.
+3. **djmcodechain**: Evolving my digital home to showcase my transition into tech.
 
 ## 🤝 Background
 My journey hasn't been a straight line. I bring a professional edge from:
